@@ -1,0 +1,12 @@
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.deps.json
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.pdb
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\obj\Debug\net8.0\refint\Mango.MessageBus.dll
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.pdb
+C:\Users\Avatar\Desktop\Programacion 2024\Curso Microservicios\Introduction to .NET Microservices (.NET 8)\Mango 3 Bus Service\Mango\Mango.MessageBus\obj\Debug\net8.0\ref\Mango.MessageBus.dll
